@@ -1,3 +1,2 @@
-# starter-joey-thinkful
-
-This repo contains the starter and solution code for the Joey Thinkful resume exercise.
+# html forms
+This repo contains my code for the HTML forms Thinkful Assessment.
